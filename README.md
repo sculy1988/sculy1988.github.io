@@ -1,1 +1,0 @@
-# sculy1988.github.io
