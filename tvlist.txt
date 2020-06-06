@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV1综合,http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+CCTV1综合,http://120.221.5.113:8089/PLTV/88888888/224/3221225859/index.m3u8#http://120.221.5.111:8089/PLTV/88888888/224/3221225859/index.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 CCTV-2财经,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV-3综艺,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=28&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV-4中文国际,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=30&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -14,7 +14,7 @@ CCTV-13新闻,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=38&FvSeid
 CCTV-14少儿,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=16&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV-15蓝光,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV-17蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-CGTN,http://ott.cqccn.com/PLTV/88888888/224/3221227453/index.m3u8
+CGTN,http://ott.cqccn.com/PLTV/88888888/224/3221227453/index.m3u8#http://120.221.5.101:8089/PLTV/88888888/224/3221225899/index.m3u8
 CCTV-4K超高清,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 
