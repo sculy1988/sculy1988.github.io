@@ -138,8 +138,31 @@ http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视"",国际奥林匹克
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视"",峨眉电影蓝光
+
+
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="巴蜀",四川卫视
+http://112.50.243.8/PLTV/88888888/224/3221227006/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀"",峨眉电影蓝光
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="巴蜀",重庆卫视HD
+http://ott.cqccn.com/PLTV/88888888/224/3221227421/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀",重庆新闻HD
+http://ott.cqccn.com/PLTV/88888888/224/3221227424/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀",重庆公共HD
+http://ott.cqccn.com/PLTV/88888888/224/3221227586/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀",重庆文体HD
+http://ott.cqccn.com/PLTV/88888888/224/3221227604/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀",重庆影视HD
+http://ott.cqccn.com/PLTV/88888888/224/3221227607/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀",重庆都市HD
+http://ott.cqccn.com/PLTV/88888888/224/3221227427/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀",重庆生活HD
+http://ott.cqccn.com/PLTV/88888888/224/3221227610/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀",重庆少儿HD
+http://ott.cqccn.com/PLTV/88888888/224/3221227613/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀",重庆时尚HD
+http://ott.cqccn.com/PLTV/88888888/224/3221227457/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文 HD
@@ -259,8 +282,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",新加坡8频道
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",新加坡5频道
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",新妙米频道
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",新加坡OktoOn5
