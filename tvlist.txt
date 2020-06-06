@@ -62,7 +62,7 @@ CCTV-4K超高清,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvS
 熊猫频道,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=129&Provider_id=&Pcontent_id=index.m3u8
 广安综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 广安公共,http://live1.gatv.com.cn:85/live/GGPD.m3u8
-广安邻水，http://live.sctvcloud.com/live/linshui/playlist.m3u8
+广安邻水,http://live.sctvcloud.com/live/linshui/playlist.m3u8
 重庆卫视HD,http://ott.cqccn.com/PLTV/88888888/224/3221227421/index.m3u8
 重庆新闻HD,http://ott.cqccn.com/PLTV/88888888/224/3221227424/index.m3u8
 重庆公共HD,http://ott.cqccn.com/PLTV/88888888/224/3221227586/index.m3u8
@@ -79,9 +79,8 @@ CCTV-4K超高清,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvS
 重庆科教,http://219.153.252.50/PLTV/88888888/224/3221225632/chunklist.m3u8
 重庆生活资讯,http://219.153.252.50/PLTV/88888888/224/3221225629/chunklist.m3u8
 重庆影视,http://219.153.252.50/PLTV/88888888/224/3221225633/chunklist.m3u8
-宁波影视,http://stream.zhxwzx.com/2/sd/live.m3u8
-厦门影视,http://112.50.243.8/PLTV/88888888/224/3221226764/3.m3u8
-中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+
+
 
 
 影视轮播,#genre#
@@ -103,10 +102,10 @@ CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 电视剧场蓝光,http://120.221.5.233:8089/PLTV/88888888/224/3221226017/index.m3u8#http://120.221.5.239:8089/PLTV/88888888/224/3221226017/index.m3u8#http://120.221.5.240:8089/PLTV/88888888/224/3221226017/index.m3u8
 精彩影视蓝光,http://120.221.5.239:8089/PLTV/88888888/224/3221226015/index.m3u8#http://120.221.5.240:8089/PLTV/88888888/224/3221226015/index.m3u8#http://120.221.5.233:8089/PLTV/88888888/224/3221226015/index.m3u8
 山东影视蓝光,http://120.221.5.165:8089/PLTV/88888888/224/3221225802/index.m3u8#http://120.221.5.171:8089/PLTV/88888888/224/3221225802/index.m3u8
+厦门影视,http://112.50.243.8/PLTV/88888888/224/3221226764/3.m3u8
 古装剧场,http://120.221.5.113:8089/PLTV/88888888/224/3221226057/index.m3u8#http://120.221.5.111:8089/PLTV/88888888/224/3221226057/index.m3u8
 家庭影院,http://120.221.5.113:8089/PLTV/88888888/224/3221226055/index.m3u8
 音乐现场,http://120.221.5.113:8089/PLTV/88888888/224/3221226059/index.m3u8
-空中课堂,http://120.221.5.50:8089/PLTV/88888888/224/3221226199/index.m3u8
 高清综合,http://120.221.5.165:8089/PLTV/88888888/224/3221225905/index.m3u8
 IPTV魅力时尚,http://120.221.5.233:8089/PLTV/88888888/224/3221225888/index.m3u8
 IPTV相声小品,http://120.221.5.236:8089/PLTV/88888888/224/3221225856/index.m3u8
@@ -175,8 +174,7 @@ HBO2台,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
 动物世界,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-华纳电影,http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-华纳电视,http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+华纳电影,http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8#http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 福克斯电影,http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 福克斯动作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
@@ -197,13 +195,13 @@ HBO2台,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
 
 
 海外,#genre#
-法国24台英语,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+法国24台英语,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8#http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
+法国24台 (法语),http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 俄罗斯IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 俄罗斯ТВTV蓝光,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 墨西哥卫视蓝光,http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 CINEMA,http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 新加坡8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-新加坡5频道,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 新妙米频道,https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 新加坡OktoOn5,https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
 新加坡SuriaTV,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
@@ -244,16 +242,11 @@ CHAHHEHD7,http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3
 彭博财经(美)Bloomberg TV,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 美国Cheddar电视,https://live.chdrstatic.com/cheddar/primary/4.m3u8
 美国CSBN,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
-美国购物QVC TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
-美国购物QVC Beauty TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
 美国Denver 8 TV,http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
 美国TVW2,http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
 美国l 美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 美国l 美国中央台,http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
-美国l 中国环球 (美国),http://live.cgtn.com/1000/prog_index.m3u8
 美国宇航局频道,http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
-法国l 法国24台 (英语),http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
-法国l 法国24台 (法语),http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 法国时装秀WFC,https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
 俄罗斯l RU 音乐频道,http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
 俄罗斯l 军事频道,http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
@@ -263,7 +256,7 @@ Hope俄罗斯,https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u
 西班牙l 西班牙五台,https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 西班牙l 神性电视台,https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 意大利l Rai 吞咽,http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-意大利l Rai 幼幼,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+意大利l Rai Yoyo,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 意大利l Rai 电影,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 意大利l Rai 溢价,http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
 斯诺伐克l J O J 频道,http://nn2.joj.sk/hls/joj-540.m3u8
