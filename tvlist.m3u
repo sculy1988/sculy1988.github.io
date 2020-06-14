@@ -31,12 +31,18 @@ http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15
+http://36.159.12.236/PLTV/88888888/224/3221226426/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K高清",CCTV4K蓝光
+http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",CETV-1
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",CETV-1 HD
 http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",CETV-1 HD
+http://39.135.31.196/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226179/3.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="央视",CETV-2
 http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="央视",CETV-3
@@ -138,6 +144,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视"",国际奥林匹克
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+
 
 
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="巴蜀",四川卫视
@@ -730,6 +737,8 @@ http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K高清",CCTV4K  UHD
 http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K高清",CCTV4K  UHD
+http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K高清",纯享4K    UHD
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K高清",纯享4K    UHD
@@ -740,6 +749,10 @@ http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K高清",BesTV4K UHD
 http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K高清",4K电影
+http://122.97.211.219:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11684&Fsv_otype=0&Provider_id=&Pcontent_id=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K高清",TVBJ2
+https://live01.dgdennis.com/hls/1122334455003.06271d34f553999896b8/1122334455003/1122334455003_live.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1OTIwMTc3MDQsInB3Ijoid2luMTlUdiIsInRtIjoxNTkyMDEwMjA0LCJ1biI6IndpbjE5VHYifQ.YF1OD1b6YVPwPLMVKPddv93kzD9YHhvfMSYOK7ZOIko
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K高清",高清HD大众影视
 http://39.134.52.207/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K高清",高清HD大众影视
