@@ -35,7 +35,7 @@ http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3
 http://36.159.12.236/PLTV/88888888/224/3221226426/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K高清",CCTV4K蓝光
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K蓝光
 http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",CETV-1
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
@@ -739,6 +739,10 @@ http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
 http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K高清",CCTV4K  UHD
 http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K高清",CCTV4K  UHD
+http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="4K高清",河南卫视4K
+http://39.134.230.196:9090/39.134.213.85/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226162/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K高清",纯享4K    UHD
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K高清",纯享4K    UHD
@@ -763,8 +767,6 @@ http://39.134.52.197/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/in
 http://39.134.52.169/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K高清",高清HD卡通剧场
 http://39.134.52.179/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226717/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K蓝码
-http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K高清",纯享4K频道
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K高清",百事4K频道
