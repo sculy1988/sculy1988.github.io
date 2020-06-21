@@ -1,21 +1,35 @@
 央视,#genre#
-CCTV1综合,http://120.221.5.113:8089/PLTV/88888888/224/3221225859/index.m3u8#http://120.221.5.111:8089/PLTV/88888888/224/3221225859/index.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
-CCTV-2财经,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV-3综艺,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=28&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV-4中文国际,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=30&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV-5体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=29&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV-6电影,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV-7国防军事,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV-8电视剧,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=34&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV-9记录,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=35&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV-10科教,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=36&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV-11戏曲,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=33&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV-13新闻,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=38&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV-14少儿,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=16&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV-15蓝光,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
-CCTV-17蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+CCTV-1HD,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
+CCTV-2HD,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+CCTV-3HD,http://223.110.241.206:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ
+CCTV-4HD,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+CCTV-5HD,http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
+CCTV-5+HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+CCTV-6HD,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+CCTV-7HD,http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+CCTV-8HD,http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
+CCTV-9HD,http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+CCTV-10HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+CCTV-11HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+CCTV-12HD,http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+CCTV-13HD,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
+CCTV-13,http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
+CCTV-14HD,http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
+CCTV-15HD,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+CCTV-15HD,http://36.159.12.236/PLTV/88888888/224/3221226426/index.m3u8
+CCTV-17HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+CCTV4KHD,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+CETV-1,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
+CETV-1 HD,http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
+CETV-1 HD,http://39.135.31.196/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226179/3.m3u8
+CETV-2,http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
+CETV-3,http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
+CETV-4,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
+CGTN HD,http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
+CGTN DOC HD,http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
+CGTN,http://223.110.241.206:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS
 CGTN,http://ott.cqccn.com/PLTV/88888888/224/3221227453/index.m3u8#http://120.221.5.101:8089/PLTV/88888888/224/3221225899/index.m3u8
-CCTV-4K超高清,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV-4K UHD,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 
 卫视,#genre#
@@ -53,7 +67,8 @@ CCTV-4K超高清,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvS
 广西卫视高清,http://112.50.243.8/PLTV/88888888/224/3221225836/1.m3u8
 新疆卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 
-地方,#genre#
+
+巴蜀,#genre#
 四川卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=085&Provider_id=&Pcontent_id=index.m3u8
 四川新闻,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=007&Provider_id=&Pcontent_id=index.m3u8
 四川经济,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=006&Provider_id=&Pcontent_id=index.m3u8
