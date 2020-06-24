@@ -55,12 +55,18 @@ http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
 http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CGTN HD
 http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CGTN DOC HD
-http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CGTN
 http://223.110.241.206:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CGTN DOC HD
+http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CGTN DOC
+http://live.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CNC中文
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CNC英文
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
 
 
@@ -280,7 +286,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",美国之音
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
-
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="海外",法国24台英语
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",俄罗斯IGITV蓝光
@@ -779,8 +784,6 @@ http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="4K高清",纯享4K
 http://39.134.156.15/PLTV/88888888/224/3221225670/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="4K高清",4K音乐现场
-http://jxgz.jilu8.cn/PLTV/88888888/224/3221225978/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettvss.live/uploads/allimg/20/1-2001291R1420-L.jpg" group-title="4K高清",BesTV 4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 
