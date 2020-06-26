@@ -61,11 +61,11 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
 巴蜀,#genre#
 四川卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=085&Provider_id=&Pcontent_id=index.m3u8
-四川新闻,http://101.207.178.10:80/PLTV/88888888/224/3221227411/1.m3u8#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=007&Provider_id=&Pcontent_id=index.m3u8
+四川旅游,http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
 四川经济,http://101.207.178.10:80/PLTV/88888888/224/3221227413/1.m3u8#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=006&Provider_id=&Pcontent_id=index.m3u8
-四川影视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=003&Provider_id=&Pcontent_id=index.m3u8
-四川乡村,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=058&Provider_id=&Pcontent_id=index.m3u8
-四川妇女儿童,http://101.207.178.10:80/PLTV/88888888/224/3221227405/1.m3u8
+四川影视,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=003&Provider_id=&Pcontent_id=index.m3u8
+四川乡村,http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=058&Provider_id=&Pcontent_id=index.m3u8
+四川妇女儿童,http://101.207.178.10:80/PLTV/88888888/224/3221227405/1.m3u8#http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
 峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 熊猫频道,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=129&Provider_id=&Pcontent_id=index.m3u8
 熊猫新闻,http://101.207.178.10:80/PLTV/88888888/224/3221227509/1.m3u8
