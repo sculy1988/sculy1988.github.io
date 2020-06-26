@@ -159,7 +159,19 @@ http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="巴蜀",四川卫视
 http://112.50.243.8/PLTV/88888888/224/3221227006/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀"",峨眉电影蓝光
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀",四川旅游
+http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀",四川经济
+http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀",四川新闻
+http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀",四川影视
+http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀",四川妇幼
+http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀",四川公共
+http://scgctvshow.sctv.com/sdlive/sctv9/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="巴蜀",峨眉电影蓝光
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="巴蜀",重庆卫视HD
 http://ott.cqccn.com/PLTV/88888888/224/3221227421/index.m3u8
